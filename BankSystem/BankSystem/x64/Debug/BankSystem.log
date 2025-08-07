@@ -1,0 +1,84 @@
+﻿  BankSystem.cpp
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsString.h(36,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsString.h(41,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsString.h(53,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsString.h(168,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsString.h(263,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsString.h(307,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsString.h(378,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsString.h(383,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsUser.h(153,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystem.cpp')
+      C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsInputValidate.h(143,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsInputValidate.h(155,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsBankClient.h(163,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystem.cpp')
+      C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsBankClient.h(118,13):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsBankClient.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsBankClient.h(127,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsBankClient.h(128,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsBankClient.h(129,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsBankClient.h(372,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsBankClient.h(382,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsCurrancy.h(25,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsCurrencyCalculatorScreen.h(13,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsDepositScreen.h(44,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsWithdrawScreen.h(45,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsTransferScreen.h(34,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsTransferScreen.h(38,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsTotalBalancesScreen.h(46,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsBankClient.h(333,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsUser.h(316,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\clsUtil.h(221,1): warning C4715: 'clsUtil::NumberToText': not all control paths return a value
+  BankSystem.vcxproj -> C:\Users\DELL\Desktop\BankSystem_OOP\BankSystem\x64\Debug\BankSystem.exe
