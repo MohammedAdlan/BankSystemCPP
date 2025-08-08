@@ -1,0 +1,43 @@
+# Ignore Visual Studio temporary files, build results, and
+# personal settings
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ipdb
+*.iobj
+*.log
+
+# VS folders
+.vs/
+Debug/
+Release/
+
+# Others
+*.pch
+*.idb
+*.tlog
+*.sdf
+*.opensdf
+*.cache
+*.db
+*.VC.db
+*.VC.VC.opendb
+
+# Backup and temp files
+*.tmp
+*.bak
+*~

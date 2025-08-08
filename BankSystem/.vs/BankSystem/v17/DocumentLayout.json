@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\BankSystem_OOP\\BankSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{433D361F-C351-45CB-B6CE-9687D78F4C4C}|BankSystem.vcxproj|C:\\Users\\DELL\\Desktop\\BankSystem_OOP\\BankSystem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{433D361F-C351-45CB-B6CE-9687D78F4C4C}|BankSystem.vcxproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{433D361F-C351-45CB-B6CE-9687D78F4C4C}|BankSystem.vcxproj|C:\\Users\\DELL\\Desktop\\BankSystem_OOP\\BankSystem\\BankSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{433D361F-C351-45CB-B6CE-9687D78F4C4C}|BankSystem.vcxproj|solutionrelative:BankSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,21 +18,20 @@
       "DocumentGroups": [
         {
           "DockedHeight": 311,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BankSystem.cpp",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BankSystem_OOP\\BankSystem\\BankSystem.cpp",
               "RelativeDocumentMoniker": "BankSystem.cpp",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\BankSystem_OOP\\BankSystem\\BankSystem.cpp",
               "RelativeToolTip": "BankSystem.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-03T14:36:12.674Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -41,6 +44,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BankSystem_OOP\\BankSystem\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BankSystem_OOP\\BankSystem\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-08-08T04:26:22.5Z",
+              "EditorCaption": ""
             }
           ]
         }
